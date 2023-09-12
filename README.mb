@@ -1,0 +1,26 @@
+# Minha API com Conexão ao Banco de Dados ElephantSQL
+
+Bem-vindo à minha API que utiliza o banco de dados ElephantSQL e está hospedada na nuvem com Render! Esta API é construída com Node.js no servidor e utiliza React no cliente.
+
+## Descrição
+
+Esta API oferece recursos para [descreva brevemente o objetivo da sua API]. Ele fornece uma conexão segura ao banco de dados ElephantSQL para armazenar e recuperar dados relacionados a [descreva o tipo de dados ou entidades que a API gerencia, se aplicável].
+
+## Recursos Principais
+
+- **Conexão com o Banco de Dados**: A API utiliza o ElephantSQL para armazenar e gerenciar dados de forma segura.
+
+- **Hospedagem na Nuvem**: Está sendo executada na plataforma Render, o que garante alta disponibilidade e escalabilidade.
+
+- **Tecnologias Utilizadas**:
+  - Backend: Node.js
+  - Frontend: React
+
+## Pré-requisitos
+
+Antes de começar a usar esta API, certifique-se de ter o seguinte instalado/configurado:
+
+- Node.js: [Site oficial do Node.js](https://nodejs.org/)
+- npm (Node Package Manager): Vem incluído com o Node.js
+- [Conta ElephantSQL](https://www.elephantsql.com/) (ou outro serviço de banco de dados, se aplicável)
+- [Conta Render](https://render.com/) (ou outro provedor de hospedagem, se aplicável)
